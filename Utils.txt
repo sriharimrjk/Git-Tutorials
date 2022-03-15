@@ -1,1 +1,1 @@
-This uses version1 of index
+This uses version2 of index
